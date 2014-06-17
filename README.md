@@ -2,7 +2,7 @@ ubermelon_html_lesson
 =====================
 
 ##Instructions
-Take a look at ubermelon_screenshot.png. Make a webpage that looks like this screenshot using HTML and CSS. You will also need to use ubermelonsmall.png, and you can get some Lorem Ipsum [here](http://www.lipsum.com/) (or [here!](http://hipsum.co/)) for the text.
+Take a look at ubermelon_screenshot.png. Make a webpage that looks like this screenshot using HTML and CSS. You will also need to use ubermelonsmall.png, and you can get some Lorem Ipsum [here](http://www.lipsum.com/) (or [here](http://hipsum.co/) or [here!](https://github.com/laurakelly/melon_ipsum)) for the text.
 
 **DO NOT** look at index.html or main.css just yet!
 
